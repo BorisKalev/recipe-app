@@ -18,7 +18,7 @@ This is my first real application: a recipe app that fetches data from the Spoon
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
 
-2. npm install //install the dependencies
+2. npm install 
 
 3. Create a .env file in the root directory. Go to : https://spoonacular.com/food-api    My Console -> Profile -> Hide/Show API key ->
 Add your Spoonacular API key to the .env file: VITE_API_KEY=your_api_key_here
