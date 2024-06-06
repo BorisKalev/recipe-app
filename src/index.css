@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(252, 222, 177);
+}
+h4{
+    font-size: 1rem;
+    color: rgb(56, 56, 56)
+}
+h3{
+    font-size : 1.5rem;
+    color : rgb(56, 56, 56);
+    line-height:2.5rem;
+    margin: 2rem 0rem;
+}
+
+a{
+    color: rgb(56, 56, 56);
+}
+/* In the DishTypes the title (#) */
+.title-typeDish{
+    margin-bottom: 40px;
+    text-align: center;
+}
+
