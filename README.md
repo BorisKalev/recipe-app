@@ -25,7 +25,6 @@ Add your Spoonacular API key to the .env file: VITE_API_KEY=your_api_key_here
 
 4. npm start / npm run dev
 
-
 Additional Information
 Technologies Used: React, Styled-components, Spoonacular API
 Features:
